@@ -24,7 +24,7 @@ li:hover{
 .cajaTexto{
    
     width: 80%;
-    height: 350%;
+    height: 355%;
     background-color: white;
     margin-top: 30px;
     margin-left: 130px;
@@ -85,6 +85,7 @@ li:hover{
     background-color: rgba(153, 255, 0, 0.521);
     height: 200px;
     border-radius: 20px;
+    margin-top: 20px;
 }
 .pie-texto{
     background-color: white; 
