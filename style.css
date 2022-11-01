@@ -31,6 +31,10 @@ li:hover{
     border-radius: 10px;
 }
 
+.boton{
+    margin-top: 60px;
+}
+
 .foto1{
     background-color: rgb(236, 193, 135);
     width: 300px;
